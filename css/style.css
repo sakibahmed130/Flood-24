@@ -1,0 +1,68 @@
+.head1{
+	color: white;
+	background: black;
+	border: 1px dashed red;
+	padding: 10px 30px 10px 15px;/*top right buttom left*/
+	width: 500px;
+	font-size: 40px;
+	margin: 0px 0px 0px 400px;
+	text-align: center;
+
+}
+.baby{
+	margin: 0px 0px 0px 100px;
+}
+
+ p{
+ 	color: bisque;
+ 	margin: 0px 40px 0px 40px;
+ 	font-size: 20px;
+ }
+ ol{
+ 	color: aquamarine;
+ 	margin: 0px 40px 0px 40px;
+ }
+ h2{
+ 	text-align: center;
+ 	color: aquamarine;
+ }
+ label{
+  background-color: lightgoldenrodyellow;
+  font-size: 20px;
+ }
+ button{
+ 	font-size: 20px;
+ }
+ address{
+ 	background-color: greenyellow;
+ 	width: 200px;
+ }
+ .wrapper{
+ 	width: 40%;
+ 	margin: 0 auto;
+ 	border: 1px solid #ddd;
+ }
+ body{
+ 	display: blocl;
+ 	margin: 100 px;
+ 	background-size: cover;
+ 	background-position: center;
+ }
+ form{
+ 	width: 80%;
+ 	display: block;
+ 	unicode-bidi: isolate;
+ 	padding-left: 15px;
+ }
+ .name,.phone-number,.email,.address,.messages{
+ 	width: 200px;
+ 	height: 15px;
+ 	padding: 10px;
+ 	font-size:18px;
+ 	background-position: center;
+
+ }
+ a{
+ 	font-size: 20px;
+ 	background-color: lightgoldenrodyellow;
+ }
